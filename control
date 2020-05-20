@@ -1,0 +1,9 @@
+Package: com.mtac.marqify
+Name: Marqify
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Make your notifications do something cool!
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
